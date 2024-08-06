@@ -10,7 +10,7 @@
       + [Updating Git Config](#updating-git-config) <br>
 * [Installing Code Editor](#installing-code-editor) <br>
       + [Visual Studio Code](#visual-studio-code) <br>
-
+* [Roster and Equivalently](Roster-and-Equivalently.md)
 
 <a name="installing-git"></a>
 
