@@ -1,14 +1,14 @@
-# Rosters
+# Rosters and Equivalently Structure
 *This document is property of San Andreas RP and its creator(s)*
 
 Collection of the members of the Development Team whether Full or Part Time. <br>
+* [Equivalently Structure](#equivalently-structure)
+* [Rosters](#rosters) <br>
+      + [Full Time](#full-time) <br>
+      + [Part Time](#part-time)
 
-### Table of Contents
-* <a href="equivalently-structure">Equivanlently Structure</a>
-* <a href="full-time">Full Time Roster</a>
-* <a href="part-time">Part Time Roster</a>
-
-### [Equivalently Structure](#equivalently-structure)
+<!-- TOC --><a name="equivalently-structure"></a>
+## Equivalently Structure
 | Rank            | Law                                           | Fire            | Dispatch            | Civilian          |
 | --------------- | :-------------------------------------------: | :-------------: | :-----------------: | :---------------: |
 | Director        |
@@ -17,7 +17,12 @@ Collection of the members of the Development Team whether Full or Part Time. <br
 | Manager         | Senior Sergeant                               | Station Officer | Senior Operator III | Junior Intern     |
 | Member          | Senior Officer I/Senior Deputy/Master Trooper | Firefighter III | Operator II         | Civilian II       |
 
-### [Full Time](#full-time)
+<a name="rosters"></a>
+## Rosters
+
+<a name="full-time"></a>
+
+### Full Time
 | Rank            | ID   | Name      |
 | --------------- | ---- | :-------: |
 | Director        | 1155 | Darian H. |
@@ -26,7 +31,9 @@ Collection of the members of the Development Team whether Full or Part Time. <br
 | Manager         | 0000 | XXXXXXXXX |
 | Member          | 1942 | Jake P.   |
 
-### [Part Time](#part-time)
+<a name="part-time"></a>
+
+### Part Time
 | ID   | Name      |
 | ---- | :-------: |
 | 1135 | Shelby G. |
