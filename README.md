@@ -22,6 +22,7 @@
 <a name="basic-install-info"></a>
 
 ### Basic Install Info
+[!NOTE]
 ***This selection can be skipped if already install on members computer***
 
 Go to https://git-scm.com/downloads and download the correct file for your system. In this tutorial we will be installing the Windows 64-bit version.
@@ -69,6 +70,7 @@ There is a few configuration options that need to be changed before you can get 
 <a name="installing-code-editor"></a>
 
 ## Installing Code Editor
+[!NOTE]
 ***This selection can be skipped if any are already install on members computer***
 
 <a name="visual-studio-code"></a>
