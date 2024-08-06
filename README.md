@@ -70,12 +70,20 @@ There is a few configuration options that need to be changed before you can get 
 <a name="installing-code-editor"></a>
 
 ## Installing Code Editor
-[!NOTE]
-***This selection can be skipped if any are already install on members computer***
+> [!NOTE]
+> ***This selection can be skipped if any are already install on members computer***
+
+The choose of a code editor is a personal choose so I, Darian H., have deciced that there will not be anyone code editor that I will force apon us, the development team. I understand that different code editors have different pros and cons, but as of right now I recommand Visual Studio Code as the code editor as they have a hand full extentions that make coding easier and faster. There will be two main types of code editors, GUI based ones like Visual Studio Code and Terminal based ones like Vim. If you would like to see your code editor added to this list please created a pull request with the required infomation needed to install the code editor. If you want you can also include recommanded settings in the corresponding folder in Editor-Settings in the correct file type and format so the user just has to change the name and a maybe few settings.
+
+> [!WARNING]
+> If a user would need to change a setting for there system please use `<!REPLACE-ME!>` as a placeholder with a comment above stating what to replace it with.
+
 
 <a name="visual-studio-code"></a>
 
-### Visual Studio Code
+### GUI: Visual Studio Code *( Recommanded )*
+
+#### Recommed Settings
 
 
 <br>
@@ -84,5 +92,5 @@ There is a few configuration options that need to be changed before you can get 
 *Updated Date: August 6, 2024* <br>
 *Approved Date: August 6, 2024* <br>
 *Approved By* <br>
-&nbsp;&nbsp;*Director ----------- Darian H.* <br>
+&nbsp;&nbsp;*Director ----------- Darian H. | 1155* <br>
 &nbsp;&nbsp;*Deputy Director -- Vacant*
