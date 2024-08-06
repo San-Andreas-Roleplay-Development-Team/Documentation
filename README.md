@@ -7,10 +7,13 @@
       + [Initial Branch Name](#initial-branch-name) <br>
       + [PATH & SSH & HTTPS & Line endings & Terminal & git pull & Manager & Caching & Expermintal](#path-ssh-https-line-endings-terminal-git-pull-manager-caching-expermintal) <br>
       + [Checking Install](#checking-install) <br>
-      + [Updating Git Config](#updating-git-config) <br>
+      + [Updating Git Config](#updating-git-config)
 * [Installing Code Editor](#installing-code-editor) <br>
       + [Visual Studio Code](#visual-studio-code) <br>
-* [Roster and Equivalently](Roster-and-Equivalently.md)
+* Other Information <br>
+      + [Roster and Equivalently Structure](Roster-and-Equivalently.md) <br>
+      + [FiveM Natives](https://docs.fivem.net/natives/) <br>
+      + [FiveM CLRCore](https://github.com/citizenfx/fivem/tree/master/code/client/clrcore)
 
 <a name="installing-git"></a>
 
