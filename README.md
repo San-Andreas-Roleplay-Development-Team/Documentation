@@ -79,8 +79,8 @@ There is a few configuration options that need to be changed before you can get 
 <br>
 
 *This document is property of San Andreas RP and its creator(s)* <br>
-*Updated: August 6, 2024* <br>
+*Updated Date: August 6, 2024* <br>
+*Approved Date: August 6, 2024* <br>
 *Approved By* <br>
-&nbsp;*August 6, 2024* <br>
 &nbsp;&nbsp;*Director ----------- Darian H.* <br>
 &nbsp;&nbsp;*Deputy Director -- Vacant*

@@ -41,8 +41,8 @@ Collection of the members of the Development Team whether Full or Part Time. <br
 <br>
 
 *This document is property of San Andreas RP and its creator(s)* <br>
-*Updated: August 6, 2024* <br>
+*Updated Date: August 6, 2024* <br>
+*Approved Date: August 6, 2024* <br>
 *Approved By* <br>
-&nbsp;*August 6, 2024* <br>
 &nbsp;&nbsp;*Director ----------- Darian H.* <br>
 &nbsp;&nbsp;*Deputy Director -- Vacant*
